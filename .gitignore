@@ -1,4 +1,4 @@
-/build
+/build/**
 /.cache
 
 ### Created by https://www.gitignore.io
