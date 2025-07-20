@@ -7,12 +7,17 @@
 ![license](https://img.shields.io/github/license/leoraclet/minecraft-alike)
 ![language](https://img.shields.io/github/languages/top/leoraclet/minecraft-alike)
 ![lastcommit](https://img.shields.io/github/last-commit/leoraclet/minecraft-alike)
+<br>
+![Language](https://img.shields.io/badge/Language-C++-1d50de)
+![Libraries](https://img.shields.io/badge/Framework-SFML-fa8925)
+![Size](https://img.shields.io/badge/Size-36Mo-f12222)
+![OpenSource](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 </div>
 
 > [!WARNING]
 >
-> Porject is still under developement (but inactive)
+> Project is still under developement (not an active one right now)
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -29,8 +34,8 @@
 
 ## 📖 About
 
-This is a simple template for C / C++ projects using SFML, OpenGL and Dear ImGUI under to hood to do
-3D and build GUI.
+This project aims to create a **Minecraft** alike game from scratch by building a 3D engine using only
+**Open-Source** C++ libraries.
 
 ## ✨ Features
 
@@ -123,7 +128,7 @@ cmake --build .
 Then, you can run the produced executable in `build` with
 
 ```basb
-./example
+./minecraft
 ```
 
 ### Windows (WSL)
